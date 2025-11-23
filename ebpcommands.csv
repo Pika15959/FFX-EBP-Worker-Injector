@@ -1,0 +1,18 @@
+D80100,Load Model,AE0100 D80100,Load Model
+D81050,Load Model Motions,AE0100 AE0000 D81050,Load Model Motions
+D81300,Set Position,AE0200 AE0300 AE0400 D81300,Set Position
+D80000,Wait X frames,AE0500 D80000,Wait X frames
+D87700,Stop Worker Motion,AEFFFF B53300 D87700,Stop Worker Motion
+D8C500,Register Turn Motions,AD0000 AD0100 AD0200 AD0300 D8C500,Register Turn Motions
+D86C00,Set NPC Speed,AF0100 D86C00,Set NPC Speed
+D86100,Set Talk/Scout Range,AF0200 D86100,Set Talk/Scout Range
+D88500,Set Touch Range,AF0000 D88500,Set Touch Range
+D86200,Set Bounce Radius,AF0300 D86200,Set Bounce Radius
+D81500,Set Destination,AF0900 AF0A00 AF0B00 D81500,Set Destination
+D82800 ,Set Rotation Target (Destin'n),B51F00 D82800 ,Set Rotation Target (Destin'n)
+D81900  ,Start Rotation,AE0000 AD0400 AE0000 D81900  ,Start Rotation
+D81800,Start Motion,AE0000 AD0500 AE0000 D81800,Start Motion
+D81A00 ,Wait For Motion,D81A00 ,Wait For Motion
+D87800,Stop Worker Rotation,AEFFFF B53300 D87800,Stop Worker Rotation
+D85E00,Disable Player Control,D85E00,Disable Player Control
+B00100,Jump to j01,B00100,Jump to j01
